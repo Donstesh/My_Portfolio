@@ -463,7 +463,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="work-more text-center mt-50">
-                        <a class="main-btn" href="#">more works</a>
+                        <a class="main-btn" href="https://github.com/Donstesh">more works</a>
                     </div> <!-- work more -->
                 </div>
             </div> <!-- row -->
