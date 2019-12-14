@@ -108,8 +108,8 @@
                     <div class="col-xl-5 col-lg-6">
                         <div class="header-content-right">
                             <h4 class="sub-title">Hello, I’m</h4>
-                            <h1 class="title">Stwephen Sienko Shifoko</h1>
-                            <p>A Freelance UI Designer & Web Developer</p>
+                            <h1 class="title">Stephen Sienko Shifoko</h1>
+                            <p>A Mobile App Developer & Web Developer</p>
                             <a class="main-btn" href="#work">View my Work</a>
                         </div> <!-- header content right -->
                     </div>
@@ -126,10 +126,10 @@
                         <div class="col-lg-12">
                             <div class="header-social-icon">
                                 <ul>
-                                    <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
-                                    <li><a href="#"><i class="lni-twitter-original"></i></a></li>
-                                    <li><a href="#"><i class="lni-behance-original"></i></a></li>
-                                    <li><a href="#"><i class="lni-linkedin-original"></i></a></li>
+                                    <li><a href="https://www.facebook.com/stephen.shifoko"><i class="lni-facebook-filled"></i></a></li>
+                                    <li><a href="https://twitter.com/Stephen_Shifoko"><i class="lni-twitter-original"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/stephen-shifoko/"><i class="lni-linkedin-original"></i></a></li>
+                                    <li><a href="https://github.com/Donstesh"><i class="lni-github-original"></i></a></li>
                                 </ul>
                             </div> <!-- header social -->
                         </div>
@@ -149,33 +149,23 @@
                 <div class="col-lg-8">
                     <div class="section-title text-center">
                         <h2 class="title">About Me</h2>
-                        <p>Nunc id dui at sapien faucibus fermentum ut vel diam. Nullam tempus, nunc id efficitur sagittis, urna est ultricies eros, ac porta sem turpis quis leo.</p>
+                        <p>I am currently working as a freelance developer and i'm always interested in challenges. Contact Me to get Connected. </p>
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
             <div class="row">
                 <div class="col-lg-6">
                     <div class="about-content mt-50">
-                        <h5 class="about-title">Hi There! I'm Mark Parker</h5>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                        <h5 class="about-title">A bit about Stesh!!</h5>
+                        <p>I am a Mobile App developer i also do Web Development i have more than 3 years Experience and worked with some various awesome projects.</p>
                         <ul class="clearfix">
-                            <li>
-                                <div class="single-info d-flex align-items-center">
-                                    <div class="info-icon">
-                                        <i class="lni-calendar"></i>
-                                    </div>
-                                    <div class="info-text">
-                                        <p><span>Date of birth:</span> 8 June 1995</p>
-                                    </div>
-                                </div> <!-- single info -->
-                            </li>
                             <li>
                                 <div class="single-info d-flex align-items-center">
                                     <div class="info-icon">
                                         <i class="lni-envelope"></i>
                                     </div>
                                     <div class="info-text">
-                                        <p><span>Email:</span> parker@mysite.com</p>
+                                        <p><span>Email:</span> mail@stephensienko.io.ke</p>
                                     </div>
                                 </div> <!-- single info -->
                             </li>
@@ -185,7 +175,7 @@
                                         <i class="lni-phone-handset"></i>
                                     </div>
                                     <div class="info-text">
-                                        <p><span>Phone:</span> +1-202-555-0138</p>
+                                        <p><span>Phone:</span> +254(0)-7 25 892 328</p>
                                     </div>
                                 </div> <!-- single info -->
                             </li>
@@ -195,7 +185,7 @@
                                         <i class="lni-map-marker"></i>
                                     </div>
                                     <div class="info-text">
-                                        <p><span>Location:</span> 4373, El Centro, CA</p>
+                                        <p><span>Location:</span> Eldoret, Kenya</p>
                                     </div>
                                 </div> <!-- single info -->
                             </li>
@@ -206,7 +196,7 @@
                     <div class="about-skills pt-25">
                         <div class="skill-item mt-25">
                             <div class="skill-header">
-                                <h6 class="skill-title">HTML</h6>
+                                <h6 class="skill-title">PHP (Laravel)</h6>
                                 <div class="skill-percentage">
                                     <div class="count-box counted">
                                         <span class="counter">80</span>
@@ -222,10 +212,10 @@
                         </div> <!-- skill item -->
                         <div class="skill-item mt-25">
                             <div class="skill-header">
-                                <h6 class="skill-title">CSS</h6>
+                                <h6 class="skill-title">Javascript (vuejs)</h6>
                                 <div class="skill-percentage">
                                     <div class="count-box counted">
-                                        <span class="counter">60</span>
+                                        <span class="counter">75</span>
                                     </div>
                                     %
                                 </div>
@@ -238,10 +228,10 @@
                         </div> <!-- skill item -->
                         <div class="skill-item mt-25">
                             <div class="skill-header">
-                                <h6 class="skill-title">Photoshop</h6>
+                                <h6 class="skill-title">dart (Flutter)</h6>
                                 <div class="skill-percentage">
                                     <div class="count-box counted">
-                                        <span class="counter">50</span>
+                                        <span class="counter">60</span>
                                     </div>
                                     %
                                 </div>
@@ -254,7 +244,7 @@
                         </div> <!-- skill item -->
                         <div class="skill-item mt-25">
                             <div class="skill-header">
-                                <h6 class="skill-title">Sketch</h6>
+                                <h6 class="skill-title">Adobe Photoshop</h6>
                                 <div class="skill-percentage">
                                     <div class="count-box counted">
                                         <span class="counter">90</span>
@@ -284,7 +274,7 @@
                 <div class="col-lg-8">
                     <div class="section-title text-center pb-30">
                         <h2 class="title">My Services</h2>
-                        <p>Nunc id dui at sapien faucibus fermentum ut vel diam. Nullam tempus, nunc id efficitur sagittis, urna est ultricies eros, ac porta sem turpis quis leo.</p>
+                        <p>Contact for a service Enquiry.</p>
                     </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
@@ -296,40 +286,7 @@
                         </div>
                         <div class="service-content">
                             <h4 class="service-title"><a href="#">Web Design</a></h4>
-                            <p>Curabitur vitae magna felis. Nulla ac libero ornare, vestibulum lacus quis blandit enimdicta sunt.</p>
-                        </div>
-                    </div> <!-- single service -->
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-8">
-                    <div class="single-service text-center mt-30">
-                        <div class="service-icon">
-                            <i class="lni-color-pallet"></i>
-                        </div>
-                        <div class="service-content">
-                            <h4 class="service-title"><a href="#contact">Graphic Design</a></h4>
-                            <p>Curabitur vitae magna felis. Nulla ac libero ornare, vestibulum lacus quis blandit enimdicta sunt.</p>
-                        </div>
-                    </div> <!-- single service -->
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-8">
-                    <div class="single-service text-center mt-30">
-                        <div class="service-icon">
-                            <i class="lni-mobile"></i>
-                        </div>
-                        <div class="service-content">
-                            <h4 class="service-title"><a href="#">App Design</a></h4>
-                            <p>Curabitur vitae magna felis. Nulla ac libero ornare, vestibulum lacus quis blandit enimdicta sunt.</p>
-                        </div>
-                    </div> <!-- single service -->
-                </div>
-                <div class="col-lg-4 col-md-6 col-sm-8">
-                    <div class="single-service text-center mt-30">
-                        <div class="service-icon">
-                            <i class="lni-vector"></i>
-                        </div>
-                        <div class="service-content">
-                            <h4 class="service-title"><a href="#">Illustration Design</a></h4>
-                            <p>Curabitur vitae magna felis. Nulla ac libero ornare, vestibulum lacus quis blandit enimdicta sunt.</p>
+                            <p>Responsive, Customized User Friendly Webpages.</p>
                         </div>
                     </div> <!-- single service -->
                 </div>
@@ -347,11 +304,22 @@
                 <div class="col-lg-4 col-md-6 col-sm-8">
                     <div class="single-service text-center mt-30">
                         <div class="service-icon">
-                            <i class="lni-support"></i>
+                            <i class="lni-mobile"></i>
                         </div>
                         <div class="service-content">
-                            <h4 class="service-title"><a href="#">Consultancy and Support</a></h4>
-                            <p>Curabitur vitae magna felis. Nulla ac libero ornare, vestibulum lacus quis blandit enimdicta sunt.</p>
+                            <h4 class="service-title"><a href="#">App Development</a></h4>
+                            <p>I have experience in madevelopment of cross-platform mobile apps using dart.</p>
+                        </div>
+                    </div> <!-- single service -->
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-8">
+                    <div class="single-service text-center mt-30">
+                        <div class="service-icon">
+                            <i class="lni-color-pallet"></i>
+                        </div>
+                        <div class="service-content">
+                            <h4 class="service-title"><a href="#contact">Graphic Design</a></h4>
+                            <p>Best Of graphics Design and illustration.</p>
                         </div>
                     </div> <!-- single service -->
                 </div>
@@ -369,10 +337,10 @@
                 <div class="col-xl-8 col-lg-9">
                     <div class="call-action-content text-center">
                         <h2 class="action-title">Have any project on mind?</h2>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua nostrud.</p>
+                        <p>Get in touch and i shall bring your expectations into reality.</p>
                         <ul>
                             <li><a class="main-btn custom" href="#">download cv</a></li>
-                            <li><a class="main-btn custom-2" href="#">hire me</a></li>
+                            <li><a class="main-btn custom-2" href="#contact">hire me</a></li>
                         </ul>
                     </div> <!-- call action content -->
                 </div>
@@ -504,103 +472,6 @@
 
     <!--====== WORK PART ENDS ======-->
 
-    <!--====== PRICING PART START ======-->
-
-    <section id="pricing" class="pricing-area gray-bg pt-125 pb-130">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-8">
-                    <div class="section-title text-center pb-25">
-                        <h2 class="title">My Pricing Plans</h2>
-                        <p>Nunc id dui at sapien faucibus fermentum ut vel diam. Nullam tempus, nunc id efficitur sagittis, urna est ultricies eros, ac porta sem turpis quis leo.</p>
-                    </div> <!-- section title -->
-                </div>
-            </div> <!-- row -->
-            <div class="row justify-content-center">
-                <div class="col-lg-4 col-md-8 col-sm-9">
-                    <div class="single-pricing text-center mt-30">
-                        <div class="pricing-package">
-                            <h4 class="package-title">Basic</h4>
-                        </div>
-                        <div class="pricing-body">
-                            <div class="pricing-text">
-                                <p>Simple project management for teams and small businesses.</p>
-                                <span class="price">$19.00</span>
-                            </div>
-                            <div class="pricing-list">
-                                <ul>
-                                    <li>Unlimited Tasks</li>
-                                    <li>Unlimited Public</li>
-                                    <li>Private Projects</li>
-                                    <li>Unlimited Teams</li>
-                                    <li>All Integrations</li>
-                                    <li>Public API</li>
-                                </ul>
-                            </div>
-                            <div class="pricing-btn">
-                                <a class="main-btn" href="#contact">get quote</a>
-                            </div>
-                        </div>
-                    </div> <!-- single pricing -->
-                </div>
-                <div class="col-lg-4 col-md-8 col-sm-9">
-                    <div class="single-pricing active text-center mt-30">
-                        <div class="pricing-package">
-                            <h4 class="package-title">Standard</h4>
-                        </div>
-                        <div class="pricing-body">
-                            <div class="pricing-text">
-                                <p>Simple project management for teams and small businesses.</p>
-                                <span class="price">$39.00</span>
-                            </div>
-                            <div class="pricing-list">
-                                <ul>
-                                    <li>Unlimited Tasks</li>
-                                    <li>Unlimited Public</li>
-                                    <li>Private Projects</li>
-                                    <li>Unlimited Teams</li>
-                                    <li>All Integrations</li>
-                                    <li>Public API</li>
-                                </ul>
-                            </div>
-                            <div class="pricing-btn">
-                                <a class="main-btn" href="#contact">get quote</a>
-                            </div>
-                        </div>
-                    </div> <!-- single pricing -->
-                </div>
-                <div class="col-lg-4 col-md-8 col-sm-9">
-                    <div class="single-pricing text-center mt-30">
-                        <div class="pricing-package">
-                            <h4 class="package-title">Premium</h4>
-                        </div>
-                        <div class="pricing-body">
-                            <div class="pricing-text">
-                                <p>Simple project management for teams and small businesses.</p>
-                                <span class="price">$29.00</span>
-                            </div>
-                            <div class="pricing-list">
-                                <ul>
-                                    <li>Unlimited Tasks</li>
-                                    <li>Unlimited Public</li>
-                                    <li>Private Projects</li>
-                                    <li>Unlimited Teams</li>
-                                    <li>All Integrations</li>
-                                    <li>Public API</li>
-                                </ul>
-                            </div>
-                            <div class="pricing-btn">
-                                <a class="main-btn" href="#contact">get quote</a>
-                            </div>
-                        </div>
-                    </div> <!-- single pricing -->
-                </div>
-            </div> <!-- row -->
-        </div> <!-- container -->
-    </section>
-
-    <!--====== PRICING PART ENDS ======-->
-
     <!--====== BLOG PART START ======-->
 
     <section id="blog" class="blog-area pt-125 pb-130">
@@ -668,8 +539,7 @@
                 <div class="col-lg-8">
                     <div class="section-title text-center pb-25">
                         <h2 class="title">Get In Touch</h2>
-                        <p>Nunc id dui at sapien faucibus fermentum ut vel diam. Nullam tempus, nunc id efficitur sagittis, urna est ultricies eros, ac porta sem turpis quis leo.</p>
-                    </div> <!-- section title -->
+                        </div> <!-- section title -->
                 </div>
             </div> <!-- row -->
             <div class="row justify-content-center">
@@ -680,7 +550,7 @@
                         </div>
                         <div class="contact-content">
                             <h6 class="contact-title">Address</h6>
-                            <p>123 Stree New York City , United States Of America 750</p>
+                            <p>30100 , Eldoret, Kenya</p>
                         </div>
                     </div> <!-- contact box -->
                 </div>
@@ -691,8 +561,7 @@
                         </div>
                         <div class="contact-content">
                             <h6 class="contact-title">Phone</h6>
-                            <p>+931 2222 5555</p>
-                            <p>+547 5554 6663</p>
+                            <p>+254(0)-7 25 892 328</p>
                         </div>
                     </div> <!-- contact box -->
                 </div>
@@ -703,8 +572,8 @@
                         </div>
                         <div class="contact-content">
                             <h6 class="contact-title">Email</h6>
-                            <p>support@yourmail.com</p>
-                            <p>info@helpline.com</p>
+                            <p>mail@stephensienko.io.ke</p>
+                            <p>stephenshifoko@gmail.com</p>
                         </div>
                     </div> <!-- contact box -->
                 </div>
@@ -729,13 +598,6 @@
                         </form>
                     </div> <!-- contact form -->
                 </div>
-                <div class="col-lg-6">
-                    <div class="contact-map mt-60">
-                        <div class="gmap_canvas">                            
-                            <iframe id="gmap_canvas" src="https://maps.google.com/maps?q=Mission%20District%2C%20San%20Francisco%2C%20CA%2C%20USA&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
-                        </div>
-                    </div> <!-- contact map -->
-                </div>
             </div> <!-- row -->
         </div> <!-- container -->
     </section>
@@ -750,16 +612,13 @@
                 <div class="row justify-content-center">
                     <div class="col-lg-8">
                         <div class="footer-content text-center">
-                            <a href="index.html">
-                                <img src="assets/images/logo-2.png" alt="Logo">
-                            </a>
-                            <p class="mt-">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor inci- didunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exe- rcitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                            <p class="mt-">Follow Me on Social Media</p>
                             <ul>
-                                <li><a href="#"><i class="lni-facebook-filled"></i></a></li>
-                                <li><a href="#"><i class="lni-twitter-original"></i></a></li>
-                                <li><a href="#"><i class="lni-pinterest"></i></a></li>
-                                <li><a href="#"><i class="lni-linkedin-original"></i></a></li>
-                            </ul>
+                                    <li><a href="https://www.facebook.com/stephen.shifoko"><i class="lni-facebook-filled"></i></a></li>
+                                    <li><a href="https://twitter.com/Stephen_Shifoko"><i class="lni-twitter-original"></i></a></li>
+                                    <li><a href="https://www.linkedin.com/in/stephen-shifoko/"><i class="lni-linkedin-original"></i></a></li>
+                                    <li><a href="https://github.com/Donstesh"><i class="lni-github-original"></i></a></li>
+                                </ul>
                         </div> <!-- footer content -->
                     </div>
                 </div> <!-- row -->
@@ -770,7 +629,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="copyright-text text-center pt-20">
-                            <p>Copyright © 2022. Template Crafted by <a href="https://uideck.com" rel="nofollow">UIdeck</a></p>
+                            <p>Copyright © <a href="https://stesh28.io.ke" rel="nofollow">stesh zi|| deVEloper</a></p>
                         </div> <!-- copyright text -->
                     </div>
                 </div> <!-- row -->
