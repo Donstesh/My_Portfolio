@@ -115,7 +115,7 @@
                     </div>
                     <div class="col-lg-6 offset-xl-1">
                         <div class="header-image d-none d-lg-block">
-                            <img src="assets/images/banner/hero.png" alt="hero">
+                            <img src="assets/images/banner/hero.jpg" alt="hero">
                         </div> <!-- header image -->
                     </div>
                 </div> <!-- row -->
