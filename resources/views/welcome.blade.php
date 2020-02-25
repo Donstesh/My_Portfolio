@@ -130,6 +130,7 @@
                                     <li><a href="https://twitter.com/Stephen_Shifoko"><i class="lni-twitter-original"></i></a></li>
                                     <li><a href="https://www.linkedin.com/in/stephen-shifoko/"><i class="lni-linkedin-original"></i></a></li>
                                     <li><a href="https://github.com/Donstesh"><i class="lni-github-original"></i></a></li>
+                                    <li><a href="https://api.whatsapp.com/send?phone=+254725892328"><i class="lni-whatsapp"></i></a></li>
                                 </ul>
                             </div> <!-- header social -->
                         </div>
@@ -618,6 +619,7 @@
                                     <li><a href="https://twitter.com/Stephen_Shifoko"><i class="lni-twitter-original"></i></a></li>
                                     <li><a href="https://www.linkedin.com/in/stephen-shifoko/"><i class="lni-linkedin-original"></i></a></li>
                                     <li><a href="https://github.com/Donstesh"><i class="lni-github-original"></i></a></li>
+                                    <li><a href="https://api.whatsapp.com/send?phone=+254725892328"><i class="lni-whatsapp"></i></a></li>
                                 </ul>
                         </div> <!-- footer content -->
                     </div>
@@ -629,7 +631,7 @@
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="copyright-text text-center pt-20">
-                            <p>Copyright © <a href="https://stesh28.io.ke" rel="nofollow">stesh zi|| deVEloper</a></p>
+                            <p>Copyright © <a href="https://stesh28.io.ke" rel="nofollow">stesh</a></p>
                         </div> <!-- copyright text -->
                     </div>
                 </div> <!-- row -->
